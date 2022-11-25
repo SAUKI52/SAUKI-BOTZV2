@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
+global.sig = 'https://saweria.co/AchmadSauki''
+global.syt = 'https://youtube.com/channel/UC5I3OREWpf87XEXg5qTWB-g'
 global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
+global.sgc = 'https://chat.whatsapp.com/LZYqzz7xXnt1BjM0NM1Xx9'
+global.swa = 'wa.me/62895357313987'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088279268363'
+global.pdana = '085795490689'
 global.povo = '-'
-global.pgopay = '088279268363'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.pgopay = '085795490689'
+global.ppulsa = '085795490689'
+global.ppulsa2 = '0895357313987'
+global.psaweria = 'https://saweria.co/AchmadSauki''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorbot = '62895339680504'
+global.nomorown = '62895357313987'
+global.namebot = 'SAUKI BOTZラ'
+global.nameown = 'ᴹᴿ᭄SAUKI OFFICIAL ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['62895357313987', 'ᴹᴿ᭄ King Of SAUKI OFFICIAL ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,14 +102,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.wm = 'SAUKI OFFICIALラ | By ᴹᴿ᭄ SAUKI BOTZ ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ SAUKI OFFICIAL ×፝֟͜×'
+global.wm3 = 'SAUKI OFFICIALラ | By ᴹᴿ᭄ SAUKI OFFICIAL ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.titlebot = `SAUKI OFFICIALラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ SAUKI OFFICIAL ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ SAUKI OFFICIAL ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'November 4 2022'
 
@@ -126,10 +126,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nameowner = 'ᴹᴿ᭄ SAUKI OFFICIAL ×፝֟͜×'
 global.umurowner = '22'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6288279268363'
+global.asalowner = 'Indonesia, Jakarta'
+global.nomorowner = 'wa.me/62895357313987'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
